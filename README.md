@@ -1,7 +1,7 @@
 ![Header](./banner.png)
 
 <p align="center">
-  hehe
+  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </p>
 
 
