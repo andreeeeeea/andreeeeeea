@@ -77,17 +77,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
 </div>
 
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andreeeeeea/andreeeeeea/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andreeeeeea/andreeeeeea/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/andreeeeeea/andreeeeeea/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
-
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api?bgColor=%23FEBECB&qColor=%23000000&aColor=%23000000&textColor=%23000000&codeColor=%23000000&borderColor=%23ffffff" alt="Jokes Card" />
 </p>
