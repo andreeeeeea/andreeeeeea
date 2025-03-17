@@ -85,6 +85,22 @@
 
 ###
 
+<h2 align="center">Currently working on...</h2>
+
+###
+
+<p align="left">🎯 GoalBond</p>
+
+###
+
+<p align="left">⌚ Time Tracker</p>
+
+###
+
+<p align="left">🧶 Various crocheting projects...</p>
+
+###
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andreeeeeea]/andreeeeeea/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andreeeeeea/andreeeeeea/output/pacman-contribution-graph.svg">
