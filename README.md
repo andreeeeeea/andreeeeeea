@@ -1,5 +1,7 @@
 ![Header](./banner.png)
 
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 
 
 
