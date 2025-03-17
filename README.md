@@ -77,6 +77,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
 </div>
 
+###
+
 <p align="center">
   <img src="https://readme-jokes.vercel.app/api?bgColor=%23FEBECB&qColor=%23000000&aColor=%23000000&textColor=%23000000&codeColor=%23000000&borderColor=%23ffffff" alt="Jokes Card" />
 </p>
