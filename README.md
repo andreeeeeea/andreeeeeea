@@ -15,7 +15,7 @@
 
 ###
 
-<p align="left">👩‍💻 University of Birmingham graduate with a Masters in Computer Science. <br>🐱 Major cat enthusiast - have been taking care of stray cats since 2016.<br>🎮 I like playing video games, but I much prefer modifying them and learning how they were built. <br>⏱️ When I'm not programming, I'm probably solving puzzles, modifying games, drawing, or crocheting. Or all four at the same time.<br>💭 I enjoy learning more about AI (developing and experimenting with my own neural networks), cybersecurity, and quantum computing.</p>
+<p align="left">👩‍💻 University of Birmingham graduate with a Masters in Computer Science. <br>🐱 Major cat enthusiast - have been taking care of stray cats since 2016 (which is also when I first started programming!)<br>🎮 I like playing video games, but I much prefer modifying them and learning how they were built. <br>⏱️ When I'm not programming, I'm probably solving puzzles, modifying games, drawing, or crocheting. Or all four at the same time.<br>💭 I enjoy learning more about AI (developing and experimenting with my own neural networks), cybersecurity, and quantum computing.</p>
 
 ###
 
