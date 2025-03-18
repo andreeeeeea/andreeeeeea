@@ -83,7 +83,7 @@
 
 ###
 
-<p align="left">🎯 GoalBond</p>
+<p align="left">🎯 GoalBond - https://goalbond.netlify.app/ </p>
 
 ###
 
