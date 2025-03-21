@@ -99,6 +99,8 @@
 
 ###
 
+<p align="left">📓 Learning C# and .NET </p>
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/andreeeeeea]/andreeeeeea/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/andreeeeeea/andreeeeeea/output/pacman-contribution-graph.svg">
