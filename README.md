@@ -93,14 +93,6 @@
 
 ###
 
-<p align="left">⌚ Time Tracker</p>
-
-###
-
-<p align="left">🗒️ Portofolio website</p>
-
-###
-
 <p align="left">📓 ManageFlow - to deepen my C# and .NET skills </p>
 
 ###
