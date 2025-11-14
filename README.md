@@ -89,6 +89,10 @@
 
 ###
 
+<p align="left">🧚Pixie - A computer control AI agent that uses Google Gemini
+
+###
+
 <p align="left">🎯 GoalBond - https://goalbond.netlify.app/ </p>
 
 ###
